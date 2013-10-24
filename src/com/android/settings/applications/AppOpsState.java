@@ -170,6 +170,9 @@ public class AppOpsState {
                     true,
                     true,
                     true,
+                    true,
+                    true,
+                    true,
                     true }
             );
 
